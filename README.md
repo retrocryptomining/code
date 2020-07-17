@@ -1,6 +1,6 @@
 # A Retrospective Analysis of User Exposure to (Illicit) Cryptocurrency Mining on the Web
 
-This repository contains code and data for our TMA paper.
+This repository contains code for our TMA paper.
 
 ## Code
 
