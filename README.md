@@ -4,8 +4,4 @@ This repository contains code for our TMA paper.
 
 ## Code
 
-We provide the source code for cm-screener, plus installation instructions for a Zeek monitoring environment.
-
-## Limitations
-
-Note that we can only publish the data from active scans. Passive measurements in the ISP network and in monitored research networks cannot be released for privacy reasons.
+We provide the source code for cm-screener and installation instructions for a Zeek monitoring environment. For the Chrome plugin we used to analyze user behavior (CIAO), we provide the code we added to detect miner code. The respective signatures we used can be found in the [data repository](https://github.com/retrocryptomining/data).
