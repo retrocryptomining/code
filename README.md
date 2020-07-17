@@ -4,7 +4,7 @@ This repository contains code and data for our TMA paper.
 
 ## Code
 
-We provide the source code for cm-screener.
+We provide the source code for cm-screener, plus installation instructions for a Zeek monitoring environment.
 
 ## Limitations
 
