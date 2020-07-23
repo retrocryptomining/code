@@ -2,6 +2,10 @@
 
 This repository contains code for our TMA paper.
 
-## Code
+## Content
 
-We provide the source code for cm-screener and installation instructions for a Zeek monitoring environment. For the Chrome plugin we used to analyze user behavior (CIAO), we provide the code we added to detect miner code. The respective signatures we used can be found in the [data repository](https://github.com/retrocryptomining/data).
+We provide code in the following ways here:
+
+- cm-screener, our active scanner: source code
+- installation instructions for a Zeek monitoring environment as we used it
+- Chrome plugin we used to analyze user behavior (CIAO): code is in the repo https://github.com/ciao-dev/CIAO. Here, we provide the code we added to detect miner code. The respective signatures we used can be found in the [data repository](https://github.com/retrocryptomining/data).
